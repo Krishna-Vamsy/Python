@@ -1,4 +1,4 @@
-DAY 1
+**DAY 1**
 The notebook is organized into the following sections:
 
 Introduction to Python:
@@ -20,7 +20,8 @@ String Slicing:
 Examples of slicing strings.
 
 
-DAY 2
+**DAY 2**
+
 This Jupyter notebook covers fundamental Python programming concepts through a series of code examples and exercises. The topics included are:
 
 User Input and Output
