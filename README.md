@@ -1,4 +1,5 @@
 **DAY 1**
+
 The notebook is organized into the following sections:
 
 Introduction to Python:
