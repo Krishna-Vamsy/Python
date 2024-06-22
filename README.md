@@ -69,6 +69,47 @@ Tuples
 
 Creating and accessing tuple elements
 
+
+**DAY 3**
+
+The exercises under this section cover the basics of sets in Python, including:
+
+Creating sets
+
+Iterating over sets
+
+Checking membership
+
+Adding and removing elements
+
+Performing set operations like union, intersection, and difference
+
+Dictionaries
+
+This section focuses on dictionaries, including:
+
+Creating dictionaries
+
+Accessing and modifying values
+
+Iterating over keys and values
+
+Dictionary methods
+
+Nested dictionaries
+
+Classes
+
+The classes section provides exercises on defining and using classes in Python:
+
+Creating classes and objects
+
+Defining methods
+
+Understanding instance variables and class variables
+
+Implementing inheritance
+
 Slicing tuples
 
 A program to sum all even numbers in a list
