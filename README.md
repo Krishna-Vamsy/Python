@@ -114,3 +114,36 @@ Slicing tuples
 
 A program to sum all even numbers in a list
 
+**DAY 4**
+
+The exercises under this section cover the basics of defining and using classes in Python, including:
+
+Creating classes and objects
+
+Defining instance variables and methods
+
+Inheritance
+
+Creating base and derived classes
+
+Understanding method overriding
+
+Demonstrating hierarchical relationships
+
+The polymorphism section provides exercises on using polymorphic behavior in Python:
+
+Method overriding
+
+Dynamic method resolution
+
+Abstraction
+
+Abstract base classes
+
+Abstract methods
+
+Encapsulation
+
+Hiding implementation details
+
+Using access modifiers
